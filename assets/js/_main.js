@@ -3,7 +3,7 @@
    ========================================================================== */
 
 $(document).ready(function(){
-   // Sticky footer
+   /* // Sticky footer
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
     },
@@ -19,7 +19,7 @@ $(document).ready(function(){
       didResize = false;
       bumpIt();
     }
-  }, 250);
+  }, 250); */
   // FitVids init
   $("#main").fitVids();
 

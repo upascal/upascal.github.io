@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Open worlds are well adapted to surveillance and control; endless possibilities for exploration are matched by equally endless opportunities for data collection.'
 date: 2021-02-01
 venue: 'Game Over: For a critique of video game rationality'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl:
 citation: 'Your Name, You. (2015). &quot;The Gamiﬁcation of Games.&quot; In <u>Game Over: For a critique of video game rationality</u>. Matteo Bittanti ed. <i>Mimesis Edizioni.</i> Milan, Italy.'
 ---
 
